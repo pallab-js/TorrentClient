@@ -6,8 +6,6 @@
 
 A modern, professional BitTorrent client with a sleek dark UI, built with Python and PySide6.
 
-![Screenshot of torrent-downloader](Screenshot%202025-09-17%20at%203.36.32%E2%80%AFPM.png)
-
 ---
 
 ## Key Features
