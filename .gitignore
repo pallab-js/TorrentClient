@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtualenv
+.venv/
+
+# OS
+.DS_Store
+
+# Test cache
+.pytest_cache/
+
+# App runtime
+logs/
+config/settings.json
+session.db
+downloads/
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+*.code-workspace
+.idea/
